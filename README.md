@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=c9d1d9&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Abner+Lucas;I'm+19+years+old;I'm+from+Brazil;Studying+Information+Systems;Be+Welcome!+:%29)](https://git.io/typing-svg)  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=c9d1d9&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Abner+Lucas;I'm+20+years+old;I'm+from+Brazil;Studying+Information+Systems;Be+Welcome!+:%29)](https://git.io/typing-svg)  
 
 [![Abner Lucas github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abnerlucasm&bg_color=121212&color=ffffff&line=0a74ff&point=a8d9ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 

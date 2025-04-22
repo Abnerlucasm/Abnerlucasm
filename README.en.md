@@ -216,19 +216,6 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Pushpin.png" width="25" /> Top Repositories
-
-<div align="center">
-  <a href="https://github.com/abnerlucasm/sistema-livraria">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abnerlucasm&repo=sistema-livraria&theme=nord" />
-  </a>
-  <a href="https://github.com/abnerlucasm/calculadora-html-js">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abnerlucasm&repo=calculadora-html-js&theme=nord" />
-  </a>
-</div>
-
----
-
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Eyes.png" width="25" /> Visitors
 
 <p align="center">

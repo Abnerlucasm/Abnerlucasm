@@ -89,30 +89,59 @@ otimizam processos e melhoram a experiência do usuário.
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" width="25" /> Experiência Profissional
 
-```bash
-# Neo Sistemas - Consultor ERP
-Cargo: Consultor de Implantação ERP
-Empresa: Neo Sistemas • Presencial • Set 2023 - Presente
-Tecnologias: PostgreSQL, JavaScript, Delphi, SQL
-Destaques: Implantação de ERP, automação de regras de negócio, suporte a grandes clientes.
-
-# Neo Sistemas - Analista de Suporte
-Cargo: Analista de Suporte Técnico
-Empresa: Neo Sistemas • Presencial • Jun 2022 - Set 2023
-Tecnologias: PostgreSQL
-Destaques: Suporte técnico para usuários de ERP.
-
-# Praqnome
-Cargo: Social Media Sênior
-Empresa: Praqnome • Integral • Jul 2020 - Jun 2022
-Tecnologias: Adobe Illustrator, Adobe Photoshop
-Destaques: Participação na direção de arte para e-commerce e redes sociais em um varejo têxtil.
-
-# Boaz Design
-Cargo: Social Media Júnior
-Empresa: Boaz Design Estúdio • Meio período • Mai 2018 - Mar 2020
-Destaques: Estágio em agência de publicidade.
-```
+<table>
+  <tr>
+    <td width="80px" align="center" valign="top">
+      <a href="https://www.neosistemas.com.br">
+        <img src="https://neosistemas.com.br/wp-content/uploads/2021/11/logo_neo_sistemas.svg" width="60px" />
+      </a>
+    </td>
+    <td>
+      <h3>Consultor de Implantação ERP</h3>
+      <p><a href="https://www.neosistemas.com.br">Neo Sistemas</a> • Presencial • Set 2023 - Presente</p>
+      <p><strong>Tecnologias:</strong> PostgreSQL, JavaScript, Delphi, SQL</p>
+      <p><strong>Destaques:</strong> Implantação de ERP, automação de regras de negócio, suporte a grandes clientes.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="80px" align="center" valign="top">
+      <a href="https://www.neosistemas.com.br">
+        <img src="https://neosistemas.com.br/wp-content/uploads/2021/11/logo_neo_sistemas.svg" width="60px" />
+      </a>
+    </td>
+    <td>
+      <h3>Analista de Suporte Técnico</h3>
+      <p><a href="https://www.neosistemas.com.br">Neo Sistemas</a> • Presencial • Jun 2022 - Set 2023</p>
+      <p><strong>Tecnologias:</strong> PostgreSQL</p>
+      <p><strong>Destaques:</strong> Suporte técnico para usuários de ERP.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="80px" align="center" valign="top">
+      <a href="https://www.praqnome.com.br">
+        <img src="https://praqnome.cdn.magazord.com.br/resources/favicon.png" width="60px" />
+      </a>
+    </td>
+    <td>
+      <h3>Social Media Sênior</h3>
+      <p><a href="https://www.praqnome.com.br">Praqnome</a> • Integral • Jul 2020 - Jun 2022</p>
+      <p><strong>Tecnologias:</strong> Adobe Illustrator, Adobe Photoshop</p>
+      <p><strong>Destaques:</strong> Participação na direção de arte para e-commerce e redes sociais em um varejo têxtil.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="80px" align="center" valign="top">
+      <a href="https://www.boazdesign.com.br">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ7aLnTeI9l-iyP_Wm397kz69n5wR1VMXHcg&s" width="60px" />
+      </a>
+    </td>
+    <td>
+      <h3>Social Media Júnior</h3>
+      <p><a href="https://www.boazdesign.com.br">Boaz Design Estúdio</a> • Meio período • Mai 2018 - Mar 2020</p>
+      <p><strong>Destaques:</strong> Estágio em agência de publicidade.</p>
+    </td>
+  </tr>
+</table>
 
 ---
 

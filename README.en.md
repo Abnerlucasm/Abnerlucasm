@@ -89,30 +89,59 @@ processes and improve user experience.
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" width="25" /> Work Experience
 
-```bash
-# Neo Sistemas - ERP Consultant
-Position: ERP Implementation Consultant 
-Company: Neo Sistemas • On-site • Sep 2023 - Present
-Technologies: PostgreSQL, JavaScript, Delphi, SQL
-Highlights: ERP implementation, business rules automation, support for major clients.
-
-# Neo Sistemas - Support Analyst
-Position: Technical Support Analyst
-Company: Neo Sistemas • On-site • Jun 2022 - Sep 2023  
-Technologies: PostgreSQL
-Highlights: Technical support for ERP users.
-
-# Praqnome
-Position: Senior Social Media
-Company: Praqnome • Full-time • Jul 2020 - Jun 2022
-Technologies: Adobe Illustrator, Adobe Photoshop
-Highlights: Participation in art direction for e-commerce and social media in a textile retail business.
-
-# Boaz Design
-Position: Junior Social Media
-Company: Boaz Design Estúdio • Part-time • May 2018 - Mar 2020
-Highlights: Internship at an advertising agency.
-```
+<table>
+  <tr>
+    <td width="80px" align="center" valign="top">
+      <a href="https://www.neosistemas.com.br">
+        <img src="https://neosistemas.com.br/wp-content/uploads/2021/11/logo_neo_sistemas.svg" width="60px" />
+      </a>
+    </td>
+    <td>
+      <h3>ERP Implementation Consultant</h3>
+      <p><a href="https://www.neosistemas.com.br">Neo Sistemas</a> • On-site • Sep 2023 - Present</p>
+      <p><strong>Technologies:</strong> PostgreSQL, JavaScript, Delphi, SQL</p>
+      <p><strong>Highlights:</strong> ERP implementation, business rules automation, support for major clients.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="80px" align="center" valign="top">
+      <a href="https://www.neosistemas.com.br">
+        <img src="https://neosistemas.com.br/wp-content/uploads/2021/11/logo_neo_sistemas.svg" width="60px" />
+      </a>
+    </td>
+    <td>
+      <h3>Technical Support Analyst</h3>
+      <p><a href="https://www.neosistemas.com.br">Neo Sistemas</a> • On-site • Jun 2022 - Sep 2023</p>
+      <p><strong>Technologies:</strong> PostgreSQL</p>
+      <p><strong>Highlights:</strong> Technical support for ERP users.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="80px" align="center" valign="top">
+      <a href="https://www.praqnome.com.br">
+        <img src="https://praqnome.cdn.magazord.com.br/resources/favicon.png" width="60px" />
+      </a>
+    </td>
+    <td>
+      <h3>Senior Social Media</h3>
+      <p><a href="https://www.praqnome.com.br">Praqnome</a> • Full-time • Jul 2020 - Jun 2022</p>
+      <p><strong>Technologies:</strong> Adobe Illustrator, Adobe Photoshop</p>
+      <p><strong>Highlights:</strong> Participation in art direction for e-commerce and social media in a textile retail business.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="80px" align="center" valign="top">
+      <a href="https://www.boazdesign.com.br">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ7aLnTeI9l-iyP_Wm397kz69n5wR1VMXHcg&s" width="60px" />
+      </a>
+    </td>
+    <td>
+      <h3>Junior Social Media</h3>
+      <p><a href="https://www.boazdesign.com.br">Boaz Design Estúdio</a> • Part-time • May 2018 - Mar 2020</p>
+      <p><strong>Highlights:</strong> Internship at an advertising agency.</p>
+    </td>
+  </tr>
+</table>
 
 ---
 

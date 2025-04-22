@@ -7,13 +7,6 @@
     <a href="README.en.md"><img src="https://img.shields.io/badge/🇺🇸_English-B22234?style=for-the-badge"/></a>
   </div>
   
-  <div style="margin-top: 20px; display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-    <a href="https://www.linkedin.com/in/abner-lucas/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white"/></a>
-    <a href="https://instagram.com/abnerlucasm"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white"/></a>
-    <a href="mailto:cmp.1a.abnerlucas.m@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23333.svg?&style=flat-square&logo=gmail&logoColor=white"/></a>
-    <a href="https://discord.com/channels/@abnerlucasm/"><img src="https://img.shields.io/badge/Discord-7289DA.svg?style=flat-square&logo=discord&logoColor=white"/></a>
-  </div>
-  
   <div style="margin-top: 20px;">
     <img src="https://github-profile-trophy.vercel.app/?username=abnerlucasm&theme=nord&row=1&column=6&margin-w=15" alt="trophies" />
   </div>

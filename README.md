@@ -17,34 +17,25 @@
   <div style="margin-top: 20px;">
     <img src="https://github-profile-trophy.vercel.app/?username=abnerlucasm&theme=nord&row=1&column=6&margin-w=15" alt="trophies" />
   </div>
-  
-  <!-- Progresso do Ano Dinâmico -->
-  <div style="margin-top: 15px; background: #2e3440; padding: 10px; border-radius: 8px; display: inline-block;">
-    <a href="https://getyearprogress.com/" target="_blank">
-      <img src="https://year-progress.vercel.app/api" alt="Progresso do Ano" />
-    </a>
-  </div>
 </div>
 
 ---
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" width="25" /> Sobre Mim
 
-<div style="border-radius: 8px; overflow: hidden; margin-bottom: 16px; width: 100%; font-family: 'JetBrains Mono', monospace;">
-  <div style="background: #3c3f41; padding: 8px; border-top-left-radius: 8px; border-top-right-radius: 8px; display: flex; align-items: center;">
-    <div style="width: 12px; height: 12px; border-radius: 50%; background: #ff5f56; margin-right: 6px;"></div>
-    <div style="width: 12px; height: 12px; border-radius: 50%; background: #ffbd2e; margin-right: 6px;"></div>
-    <div style="width: 12px; height: 12px; border-radius: 50%; background: #27c93f; margin-right: 6px;"></div>
-    <div style="color: #ddd; font-size: 14px; margin-left: 8px; font-family: 'JetBrains Mono', monospace;">sobre_mim.md</div>
-  </div>
-  <div style="background: #2b2b2b; color: #ddd; padding: 16px; border-bottom-left-radius: 8px; border-bottom-right-radius: 8px; font-family: 'JetBrains Mono', monospace; line-height: 1.6;">
-    <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="computer illustration" width="300px" align="right">
-    <p><span style="color: #88c0d0;">$</span> whoami</p>
-    <p>Sou apaixonado por tecnologia e inovação, com experiência em implementação de sistemas ERP e desenvolvimento de soluções. Atualmente cursando <span style="color: #88c0d0;"><b>Sistemas de Informação</b></span> no <a href="https://unibave.net/" style="color: #88c0d0;"><b>UNIBAVE</b></a>, onde desenvolvo habilidades em análise de processos, automação e desenvolvimento de software.</p>
-    <p><span style="color: #88c0d0;">$</span> trajetória</p>
-    <p>Minha trajetória profissional inclui experiências em desenvolvimento, suporte técnico e mídias sociais, o que me proporcionou uma visão ampla do papel da tecnologia nos negócios. Aplico conhecimentos em SQL, JavaScript e outras tecnologias para criar soluções que otimizam processos e melhoram a experiência do usuário.</p>
-  </div>
-</div>
+```bash
+# sobre_mim.md
+$ whoami
+Sou apaixonado por tecnologia e inovação, com experiência em implementação de sistemas ERP e 
+desenvolvimento de soluções. Atualmente cursando Sistemas de Informação no UNIBAVE, onde 
+desenvolvo habilidades em análise de processos, automação e desenvolvimento de software.
+
+$ trajetória
+Minha trajetória profissional inclui experiências em desenvolvimento, suporte técnico e 
+mídias sociais, o que me proporcionou uma visão ampla do papel da tecnologia nos negócios. 
+Aplico conhecimentos em SQL, JavaScript e outras tecnologias para criar soluções que 
+otimizam processos e melhoram a experiência do usuário.
+```
 
 ---
 
@@ -98,98 +89,30 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" width="25" /> Experiência Profissional
 
-<div style="font-family: 'JetBrains Mono', monospace;">
-  <!-- Neo Sistemas - Consultor ERP -->
-  <div style="background: #2e3440; color: #d8dee9; border-radius: 8px; margin-bottom: 16px; overflow: hidden; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);">
-    <div style="background: #3b4252; padding: 8px; display: flex; align-items: center;">
-      <div style="width: 12px; height: 12px; background: #bf616a; border-radius: 50%; margin-right: 6px;"></div>
-      <div style="width: 12px; height: 12px; background: #ebcb8b; border-radius: 50%; margin-right: 6px;"></div>
-      <div style="width: 12px; height: 12px; background: #a3be8c; border-radius: 50%; margin-right: 6px;"></div>
-      <span style="font-family: 'JetBrains Mono', monospace; margin-left: 8px;">neo_sistemas_consultor.sh</span>
-    </div>
-    <div style="display: flex; padding: 16px;">
-      <div style="width: 100px; display: flex; justify-content: center; align-items: center;">
-        <a href="https://www.neosistemas.com.br">
-          <img src="https://neosistemas.com.br/wp-content/uploads/2021/11/logo_neo_sistemas.svg" width="80px" />
-        </a>
-      </div>
-      <div style="flex: 1; padding-left: 16px;">
-        <h3 style="margin: 0 0 8px 0; color: #88c0d0;">Consultor de Implantação ERP</h3>
-        <h4 style="margin: 0 0 12px 0; font-weight: normal; color: #81a1c1;"><a href="https://www.neosistemas.com.br" style="color: #81a1c1; text-decoration: none;">Neo Sistemas</a> • Presencial • Set 2023 - Presente</h4>
-        <p style="margin: 0 0 8px 0;"><span style="color: #d08770;">Tecnologias:</span> <code style="background: #434c5e; padding: 2px 5px; border-radius: 3px;">PostgreSQL</code> <code style="background: #434c5e; padding: 2px 5px; border-radius: 3px;">JavaScript</code> <code style="background: #434c5e; padding: 2px 5px; border-radius: 3px;">Delphi</code> <code style="background: #434c5e; padding: 2px 5px; border-radius: 3px;">SQL</code></p>
-        <p style="margin: 0;"><span style="color: #d08770;">Destaques:</span> Implantação de ERP, automação de regras de negócio, suporte a grandes clientes.</p>
-      </div>
-    </div>
-  </div>
-  
-  <!-- Neo Sistemas - Analista de Suporte -->
-  <div style="background: #2e3440; color: #d8dee9; border-radius: 8px; margin-bottom: 16px; overflow: hidden; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);">
-    <div style="background: #3b4252; padding: 8px; display: flex; align-items: center;">
-      <div style="width: 12px; height: 12px; background: #bf616a; border-radius: 50%; margin-right: 6px;"></div>
-      <div style="width: 12px; height: 12px; background: #ebcb8b; border-radius: 50%; margin-right: 6px;"></div>
-      <div style="width: 12px; height: 12px; background: #a3be8c; border-radius: 50%; margin-right: 6px;"></div>
-      <span style="font-family: 'JetBrains Mono', monospace; margin-left: 8px;">neo_sistemas_suporte.sh</span>
-    </div>
-    <div style="display: flex; padding: 16px;">
-      <div style="width: 100px; display: flex; justify-content: center; align-items: center;">
-        <a href="https://www.neosistemas.com.br">
-          <img src="https://neosistemas.com.br/wp-content/uploads/2021/11/logo_neo_sistemas.svg" width="80px" />
-        </a>
-      </div>
-      <div style="flex: 1; padding-left: 16px;">
-        <h3 style="margin: 0 0 8px 0; color: #88c0d0;">Analista de Suporte Técnico</h3>
-        <h4 style="margin: 0 0 12px 0; font-weight: normal; color: #81a1c1;"><a href="https://www.neosistemas.com.br" style="color: #81a1c1; text-decoration: none;">Neo Sistemas</a> • Presencial • Jun 2022 - Set 2023</h4>
-        <p style="margin: 0 0 8px 0;"><span style="color: #d08770;">Tecnologias:</span> <code style="background: #434c5e; padding: 2px 5px; border-radius: 3px;">PostgreSQL</code></p>
-        <p style="margin: 0;"><span style="color: #d08770;">Destaques:</span> Suporte técnico para usuários de ERP.</p>
-      </div>
-    </div>
-  </div>
-  
-  <!-- Praqnome -->
-  <div style="background: #2e3440; color: #d8dee9; border-radius: 8px; margin-bottom: 16px; overflow: hidden; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);">
-    <div style="background: #3b4252; padding: 8px; display: flex; align-items: center;">
-      <div style="width: 12px; height: 12px; background: #bf616a; border-radius: 50%; margin-right: 6px;"></div>
-      <div style="width: 12px; height: 12px; background: #ebcb8b; border-radius: 50%; margin-right: 6px;"></div>
-      <div style="width: 12px; height: 12px; background: #a3be8c; border-radius: 50%; margin-right: 6px;"></div>
-      <span style="font-family: 'JetBrains Mono', monospace; margin-left: 8px;">praqnome_social_media.sh</span>
-    </div>
-    <div style="display: flex; padding: 16px;">
-      <div style="width: 100px; display: flex; justify-content: center; align-items: center;">
-        <a href="https://www.praqnome.com.br">
-          <img src="https://praqnome.cdn.magazord.com.br/resources/favicon.png" width="80px" />
-        </a>
-      </div>
-      <div style="flex: 1; padding-left: 16px;">
-        <h3 style="margin: 0 0 8px 0; color: #88c0d0;">Social Media Sênior</h3>
-        <h4 style="margin: 0 0 12px 0; font-weight: normal; color: #81a1c1;"><a href="https://www.praqnome.com.br" style="color: #81a1c1; text-decoration: none;">Praqnome</a> • Integral • Jul 2020 - Jun 2022</h4>
-        <p style="margin: 0 0 8px 0;"><span style="color: #d08770;">Tecnologias:</span> <code style="background: #434c5e; padding: 2px 5px; border-radius: 3px;">Adobe Illustrator</code> <code style="background: #434c5e; padding: 2px 5px; border-radius: 3px;">Adobe Photoshop</code></p>
-        <p style="margin: 0;"><span style="color: #d08770;">Destaques:</span> Participação na direção de arte para e-commerce e redes sociais em um varejo têxtil.</p>
-      </div>
-    </div>
-  </div>
-  
-  <!-- Boaz Design -->
-  <div style="background: #2e3440; color: #d8dee9; border-radius: 8px; margin-bottom: 16px; overflow: hidden; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);">
-    <div style="background: #3b4252; padding: 8px; display: flex; align-items: center;">
-      <div style="width: 12px; height: 12px; background: #bf616a; border-radius: 50%; margin-right: 6px;"></div>
-      <div style="width: 12px; height: 12px; background: #ebcb8b; border-radius: 50%; margin-right: 6px;"></div>
-      <div style="width: 12px; height: 12px; background: #a3be8c; border-radius: 50%; margin-right: 6px;"></div>
-      <span style="font-family: 'JetBrains Mono', monospace; margin-left: 8px;">boaz_social_media.sh</span>
-    </div>
-    <div style="display: flex; padding: 16px;">
-      <div style="width: 100px; display: flex; justify-content: center; align-items: center;">
-        <a href="https://www.boazdesign.com.br">
-          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ7aLnTeI9l-iyP_Wm397kz69n5wR1VMXHcg&s" width="80px" />
-        </a>
-      </div>
-      <div style="flex: 1; padding-left: 16px;">
-        <h3 style="margin: 0 0 8px 0; color: #88c0d0;">Social Media Júnior</h3>
-        <h4 style="margin: 0 0 12px 0; font-weight: normal; color: #81a1c1;"><a href="https://www.boazdesign.com.br" style="color: #81a1c1; text-decoration: none;">Boaz Design Estúdio</a> • Meio período • Mai 2018 - Mar 2020</h4>
-        <p style="margin: 0;"><span style="color: #d08770;">Destaques:</span> Estágio em agência de publicidade.</p>
-      </div>
-    </div>
-  </div>
-</div>
+```bash
+# Neo Sistemas - Consultor ERP
+Cargo: Consultor de Implantação ERP
+Empresa: Neo Sistemas • Presencial • Set 2023 - Presente
+Tecnologias: PostgreSQL, JavaScript, Delphi, SQL
+Destaques: Implantação de ERP, automação de regras de negócio, suporte a grandes clientes.
+
+# Neo Sistemas - Analista de Suporte
+Cargo: Analista de Suporte Técnico
+Empresa: Neo Sistemas • Presencial • Jun 2022 - Set 2023
+Tecnologias: PostgreSQL
+Destaques: Suporte técnico para usuários de ERP.
+
+# Praqnome
+Cargo: Social Media Sênior
+Empresa: Praqnome • Integral • Jul 2020 - Jun 2022
+Tecnologias: Adobe Illustrator, Adobe Photoshop
+Destaques: Participação na direção de arte para e-commerce e redes sociais em um varejo têxtil.
+
+# Boaz Design
+Cargo: Social Media Júnior
+Empresa: Boaz Design Estúdio • Meio período • Mai 2018 - Mar 2020
+Destaques: Estágio em agência de publicidade.
+```
 
 ---
 
@@ -213,7 +136,6 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=abnerlucasm&theme=nord&row=2&column=3" />
 </p>
-
 
 ---
 

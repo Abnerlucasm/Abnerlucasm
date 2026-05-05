@@ -57,7 +57,7 @@ desenvolvedor full stack.
   <tr>
     <td width="80px" align="center" valign="top">
       <a href="https://www.neosistemas.com.br">
-        <img src="https://neosistemas.com.br/wp-content/uploads/2021/11/logo_neo_sistemas.svg" width="60px" />
+        <img src="https://neosistemas.com.br/wp-content/uploads/2026/03/logomarca.png" width="60px" />
       </a>
     </td>
     <td>
@@ -70,7 +70,7 @@ desenvolvedor full stack.
   <tr>
     <td width="80px" align="center" valign="top">
       <a href="https://www.neosistemas.com.br">
-        <img src="https://neosistemas.com.br/wp-content/uploads/2021/11/logo_neo_sistemas.svg" width="60px" />
+        <img src="https://neosistemas.com.br/wp-content/uploads/2026/03/logomarca.png" width="60px" />
       </a>
     </td>
     <td>
@@ -83,7 +83,7 @@ desenvolvedor full stack.
   <tr>
     <td width="80px" align="center" valign="top">
       <a href="https://www.neosistemas.com.br">
-        <img src="https://neosistemas.com.br/wp-content/uploads/2021/11/logo_neo_sistemas.svg" width="60px" />
+        <img src="https://neosistemas.com.br/wp-content/uploads/2026/03/logomarca.png" width="60px" />
       </a>
     </td>
     <td>
